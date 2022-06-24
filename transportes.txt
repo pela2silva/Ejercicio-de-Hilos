@@ -1,0 +1,16 @@
+Gaseosas|Pepsi|A787SFD
+Bebidas|Branca|B89SDDS7
+Snacks|Lays|C7G7SF5
+Cigarrillos|Masamin|G7G7HFD
+Papel Higienico|Campanita|ABCDE789
+Gaseosas|Pepsi|A787SFD
+Bebidas|Branca|B89SDDS7
+Snacks|Lays|C7G7SF5
+Cigarrillos|Masamin|G7G7HFD
+Papel Higienico|Campanita|ABCDE789
+Gaseosas|Pepsi|A787SFD
+Bebidas|Branca|B89SDDS7
+Snacks|Lays|C7G7SF5
+Cigarrillos|Masamin|G7G7HFD
+Papel Higienico|Campanita|ABCDE789
+Fideos|Matarazzo|ZZZ2590
